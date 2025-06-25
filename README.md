@@ -1,4 +1,4 @@
-# 🎓 Cognitive-Aware Website Redesign – CivilicaNEW
+# 🎓 Cognitive-Aware Website Redesign – Civilicanew
 
 ## 📘 About the Project
 
